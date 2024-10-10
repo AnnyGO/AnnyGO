@@ -37,7 +37,8 @@
 <div style="display: inline_block">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/900px-Calligrakrita-base.svg.png" />
+  
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AF3DEC&height=120&section=footer"/>
